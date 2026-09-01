@@ -1,0 +1,10 @@
+Enter Agatha Christie's ABC murders: the names of the three victims, the corresponding locations of their deaths, and the name of the false killer in the following order:
+Alice Ascher at Andover
+Betty Barnard at Bexhill
+Carmichael Clarke at Churston
+The false ABC killer is
+Alexander Bonaparte Cust
+And type
+Agatha 
+in the final input.
+If you still cannot enter "Agatha" at the end, please check if any names are misspelled; this is quite common.
